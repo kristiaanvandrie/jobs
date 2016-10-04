@@ -24,7 +24,7 @@ Ten vierde.. ja, waar geloof jij eigenlijk in, kom jij het ons vertellen?
 * de mogelijkheid 32u of 36u te kunnen werken
 * een Macbook Pro (of Windows) laptop
 * een passend salaris
-* 28 vakantiedagen
+* 26 vakantiedagen
 * een studiebudget, techdays, kennis-sessies en seminar bezoek
 * de wetenschap dat dagelijks miljoenen (!) internetbezoekers gebruik maken van wat jij bouwt
 * en een boel andere arbeidsvoorwaarden die niet meer op deze pagina passen
