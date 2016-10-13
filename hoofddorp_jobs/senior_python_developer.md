@@ -30,7 +30,6 @@ Ten vierde.. ja, waar geloof jij eigenlijk in, kom jij het ons vertellen?
 * en een boel andere arbeidsvoorwaarden die niet meer op deze pagina passen
 
 
+Stuur ons een bericht als je interesse hebt in deze plek, ook als je niet 100% aansluit. We komen graag met je in contact. 
 
-Please apply if you're interested in the position, regardless of how many qualifications you meet. We want to hear from you!
-
-Please email your resume/github/linkedin to [Christiaan Lam](mailto:christiaan.lam@sanom.com). No agencies or recruiters, please.
+Stuur je CV/github/linkedin profiel aan  [Christiaan Lam](mailto:christiaan.lam@sanoma.com). Acquisitie: liever niet. 
