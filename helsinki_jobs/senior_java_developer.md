@@ -15,7 +15,10 @@ We offer you a key position in Ecommerce development team with interesting and c
 Feel free to take a look at one of [Sanoma's open source projects](https://github.com/sanoma/).
 
 Additional information	For more information please contact [Juha Kantola](mailto:juha.kantola@sanoma.com)
-Employment type	Permanent job
-Work type	Full-time
-Location	Helsinki, Finland
-Application period	10/3/2016 - 10/17/2016
+
+Employment type:	Permanent job
+
+Work type:	Full-time
+
+Location:	Helsinki, Finland
+
