@@ -15,6 +15,7 @@ Sanoma Technology is the IT department
 ### [Sanoma Media Finland, Helsinki](https://github.com/sanoma/jobs/blob/master/helsinki_jobs)
 
 * [Senior Java Developer](https://github.com/sanoma/jobs/blob/master/helsinki_jobs/senior_java_developer.md)
+
 <!--* [DevOps Engineer](https://github.com/sanoma/jobs/blob/master/hoofddorp_jobs/devops_engineer.md)-->
 
 ### [Sanoma Mobile Development Center, Budapest](https://github.com/sanoma/jobs/blob/master/budapest_jobs)
