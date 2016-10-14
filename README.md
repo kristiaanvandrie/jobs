@@ -9,13 +9,13 @@ Sanoma Technology is the IT department
 * [Agile Service Manager](https://github.com/sanoma/jobs/blob/master/hoofddorp_jobs/agile_service_manager.md)
 * [DevOps Engineer](https://github.com/sanoma/jobs/blob/master/hoofddorp_jobs/devops_engineer.md)
 
-* [Senior Big Data Engineer](https://github.com/sanoma/jobs/blob/master/hoofddorp_jobs/senior_big_data_engineer.md)
+<!--* [Senior Big Data Engineer](https://github.com/sanoma/jobs/blob/master/hoofddorp_jobs/senior_big_data_engineer.md)-->
 
 
 ### [Sanoma Media Finland, Helsinki](https://github.com/sanoma/jobs/blob/master/helsinki_jobs)
 
 * [Senior Java Developer](https://github.com/sanoma/jobs/blob/master/helsinki_jobs/senior_java_developer.md)
-* [DevOps Engineer](https://github.com/sanoma/jobs/blob/master/hoofddorp_jobs/devops_engineer.md)
+<!--* [DevOps Engineer](https://github.com/sanoma/jobs/blob/master/hoofddorp_jobs/devops_engineer.md)-->
 
 ### [Sanoma Mobile Development Center, Budapest](https://github.com/sanoma/jobs/blob/master/budapest_jobs)
 
