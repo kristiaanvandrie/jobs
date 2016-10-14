@@ -5,7 +5,7 @@ Sanoma Technology is the IT department
 
 ### [Sanoma Media The Netherlands, Hoofddorp](https://github.com/sanoma/jobs/tree/master/hoofddorp_jobs)
 
-* [Senior Python Developer](https://github.com/sanoma/jobs/blob/master/hoofddorp_jobs/senior_python_developer.md)
+* [Medior & Senior Python Developers](https://github.com/sanoma/jobs/blob/master/hoofddorp_jobs/senior_python_developer.md)
 * [Agile Service Manager](https://github.com/sanoma/jobs/blob/master/hoofddorp_jobs/agile_service_manager.md)
 * [DevOps Engineer](https://github.com/sanoma/jobs/blob/master/hoofddorp_jobs/devops_engineer.md)
 
