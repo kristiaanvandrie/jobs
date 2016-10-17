@@ -10,14 +10,14 @@ Ook geloven we in High Performance Teams, op basis van Scrum en met diversiteit 
 
 ### Een agile service manager...
 * .. is verantwoordelijk voor het Scrum proces van 1 of meerdere scrumteams
-* .. is de linking pin tussen de Product Owner / Head of Product, en de scrumteams
-* .. draait zijn hand niet om voor backlog beheer, refinement sessions, sprint reviews, standups, etcetera
+* .. is de linking pin tussen de Technology en de Businesss
+* .. draait zijn hand niet om voor retrospectives, refinement sessions, sprint reviews, standups, etcetera
 * .. is communicatief sterk en kan ook omgaan met nearshoring in zijn/haar team
 
 ###Jij..
 * .. bent een slimmerik met een HBO of Universitaire opleiding op het gebied van Bedrijfskundige Informatica, of vergelijkbaar
 * .. kent Scrum als je broekzak en werkt al jaren in moderne ICT omgevingen
-* .. bezit bijbehorende kennis op het gebied van technologiën zoals Git, Github, AWS, Jira, security, DevOps, Continuous Delivery, Scrum, etcetera. Je hoeft er geen specialist in te zijn, je moet wel snappen wat het is. 
+* .. Je weet wat je collega's bedoelen als ze spreken over Security, DevOps, Continous Delivery, etc
 * .. spreekt goed Engels
 
 
